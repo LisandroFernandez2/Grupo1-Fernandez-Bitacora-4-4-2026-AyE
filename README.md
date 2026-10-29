@@ -1,1 +1,3 @@
 # Grupo1-Fernandez-Bitacora-4-4-2026-AyE
+Hoy empece con el codigo del juego, agregue la pantalla de inicio, cambie el logo del juego en la barra de tareas y por ultimo le añadi musica. Ademas organice el github para 
+que sea ejecutable en el CMD para una persona que quiera jugarlo
