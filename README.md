@@ -1,1 +1,4 @@
 # Grupo1-Fernandez-Bitacora-4-4-2026-AyE
+Hoy termine de hacer el modo de juego contrarreloj,
+además, ayude a mis compañeros a resolver un problema 
+proveniente del modo de juego supervivencia.
