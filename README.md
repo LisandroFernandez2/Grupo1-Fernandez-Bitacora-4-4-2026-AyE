@@ -1,1 +1,6 @@
 # Grupo1-Fernandez-Bitacora-4-4-2026-AyE
+Hoy hice muchas cosas en el proyecto:
+Añadi dos botones: Jugar y salir
+Añadi el menu para seleccionar niveles
+Organice el github para que la nueva version sea ejecutable
+Actualice el README con las instrucciones de ejecucion
