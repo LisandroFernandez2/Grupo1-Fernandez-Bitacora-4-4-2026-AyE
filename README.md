@@ -1,1 +1,5 @@
 # Grupo1-Fernandez-Bitacora-4-4-2026-AyE
+Hoy vi con mi grupo el como va a ser el diseño de 
+ciertas pantallas del juego, como la de inicio, game over,
+la de clasificación de puntajes, etc. Por ahora, solo
+tenemos un vago concepto.
