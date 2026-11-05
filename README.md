@@ -114,6 +114,13 @@ a supervivencia vidas aparece null.
 
 <img width="3459" height="1512" alt="image" src="https://github.com/user-attachments/assets/f194dd1b-62c8-45b5-b06a-474064916a6a" /> Funcion para guardar los datos de partida, las variables var sirven para las foreign keys.
 
+<img width="3141" height="1227" alt="image" src="https://github.com/user-attachments/assets/e2ab98f8-aff6-4a23-91b5-e3d00f3be885" /> Para guardar cartas y movimientos, la logica es la misma, con un foreach ve cada carta/movimiento y l@ añade a la base de datos
+
+<img width="2454" height="540" alt="image" src="https://github.com/user-attachments/assets/3456eae4-6ae5-45d1-a01a-61985497d17e" /> Lo mismo para pares descubiertos.
+
+<img width="1809" height="852" alt="image" src="https://github.com/user-attachments/assets/2cfecbc5-2db2-437d-9a30-9d7dbc55e9a2" /> Una vez que termina la partida guarta todos los datos + cantidad de puntos que hizo
+
+
 
 
 
