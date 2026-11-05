@@ -52,15 +52,15 @@ carpeta BaseDeDatos con las clases con sus respectivas variables:
   - public int Puntos { get; set; }
      </kbd>
 - RecordDB <kbd>
- - public int ID { get; set; }
- - public int Partida_id { get; set; }
- - public int Jugador_id { get; set; }
- - public int Nivel { get; set; }
- - public int Intentos { get; set; }
- - public int Aciertos { get; set; }
- - public int Fallos { get; set; }
- - public int Tiempo_segundos { get; set; }
- - public int Puntuacion { get; set; }
- - public DateTime Fecha { get; set; }
+  - public int ID { get; set; }
+  - public int Partida_id { get; set; }
+  - public int Jugador_id { get; set; }
+  - public int Nivel { get; set; }
+  - public int Intentos { get; set; }
+  - public int Aciertos { get; set; }
+  - public int Fallos { get; set; }
+  - public int Tiempo_segundos { get; set; }
+  - public int Puntuacion { get; set; }
+  - public DateTime Fecha { get; set; }
      </kbd>
 - TematicaDB
