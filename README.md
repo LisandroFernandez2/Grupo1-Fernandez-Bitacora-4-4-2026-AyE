@@ -79,14 +79,12 @@ EL USUARIO DECIDE JUGAR AL MODO MULTIJUGADOR
 <img width="2076" height="1341" alt="image" src="https://github.com/user-attachments/assets/204df26a-f063-4849-928a-54ea2782e549" /> DOS FUNCIONES: INITIALIZE PARA PODER EJECUTAR LAS FUNCIONES Y QUE SE GUARDEN LOS DATOS EN LA BASE DE DATOS Y
 CARGARTEMATICAS PARA CARGAR LOS DATOS DE TEMATICA EN LA BASE
 
-- Tambien añadi lineas a funciones ya creadas para que funcione todo:
-      <kbd>         
+- Tambien añadi lineas a funciones ya creadas para que funcione todo: <kbd>         
         - case EstadoJuego.IngresarNombre: DibujarIngresarNombre(); break;
         - case EstadoJuego.IngresarNombre2: DibujarIngresarNombre2(); break;
  </kbd> 
  - Añadi estas dos lineas en en el switch (_estado) en Draw, basicamente si la pantalla es la de ingresar el nombre de
- alguno de los dos usuarios dibuja lo necesario en la pantalla.
- <kbd>    
+ alguno de los dos usuarios dibuja lo necesario en la pantalla. <kbd>    
         - case EstadoJuego.IngresarNombre:
         - ActualizarIngresarNombre(Tecla);
         - break;
