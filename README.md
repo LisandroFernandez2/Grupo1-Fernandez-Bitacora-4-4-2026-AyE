@@ -9,8 +9,11 @@ carpeta BaseDeDatos con las clases con sus respectivas variables:
   - public int id_valor { get; set; }
   - public int esta_descubierta { get; set; }
   - public int esta_emparejada { get; set; }
-  </kbd>)
-- JugadorDB
+  </kbd>
+- JugadorDB (<kbd>
+  - public int ID { get; set; }
+  - public string Nombre { get; set; }
+     </kbd>
 - Modo_JuegoDB
 - MovimientoDB
 - PartidaDB
