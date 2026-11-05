@@ -112,6 +112,8 @@ Añado dos nuevas pantallas; IngresarNombre (para el inicio) y IngresarNombre2 (
 <img width="3006" height="507" alt="image" src="https://github.com/user-attachments/assets/f10f9568-9b99-4158-8cec-1a49aa548b6e" /> Guardo el nivel, si es uno diferente a contrarreloj, cronometro tiempo aparece null, y si es diferente
 a supervivencia vidas aparece null.
 
+<img width="3459" height="1512" alt="image" src="https://github.com/user-attachments/assets/f194dd1b-62c8-45b5-b06a-474064916a6a" /> Funcion para guardar los datos de partida, las variables var sirven para las foreign keys.
+
 
 
 
