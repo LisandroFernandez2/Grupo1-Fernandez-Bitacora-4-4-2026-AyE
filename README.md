@@ -63,4 +63,8 @@ carpeta BaseDeDatos con las clases con sus respectivas variables:
   - public int Puntuacion { get; set; }
   - public DateTime Fecha { get; set; }
      </kbd>
-- TematicaDB
+- TematicaDB <kbd>
+    - public int ID { get; set; }
+    - public string Nombre { get; set; }
+    - public string Carpeta { get; set; }
+    </kbd>
