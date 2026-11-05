@@ -109,6 +109,9 @@ _nombreJugador.
 public enum EstadoJuego { IngresarNombre, Inicio, SeleccionModo, IngresarNombre2, ElegirNivel, Jugando, Gano, Perdio }
 Añado dos nuevas pantallas; IngresarNombre (para el inicio) y IngresarNombre2 (para el multijugador)
 
+<img width="3006" height="507" alt="image" src="https://github.com/user-attachments/assets/f10f9568-9b99-4158-8cec-1a49aa548b6e" /> Guardo el nivel, si es uno diferente a contrarreloj, cronometro tiempo aparece null, y si es diferente
+a supervivencia vidas aparece null.
+
 
 
 
