@@ -80,18 +80,19 @@ EL USUARIO DECIDE JUGAR AL MODO MULTIJUGADOR
 CARGARTEMATICAS PARA CARGAR LOS DATOS DE TEMATICA EN LA BASE
 
 - Tambien añadi lineas a funciones ya creadas para que funcione todo: <kbd>         
-        - case EstadoJuego.IngresarNombre: DibujarIngresarNombre(); break;
-        - case EstadoJuego.IngresarNombre2: DibujarIngresarNombre2(); break;
- </kbd> 
+         - case EstadoJuego.IngresarNombre: DibujarIngresarNombre(); break;
+         - case EstadoJuego.IngresarNombre2: DibujarIngresarNombre2(); break;
+          </kbd> 
  - Añadi estas dos lineas en en el switch (_estado) en Draw, basicamente si la pantalla es la de ingresar el nombre de
  alguno de los dos usuarios dibuja lo necesario en la pantalla. <kbd>    
-        - case EstadoJuego.IngresarNombre:
-        - ActualizarIngresarNombre(Tecla);
-        - break;
-        - case EstadoJuego.IngresarNombre2:
-        - ActualizarIngresarNombre2(Tecla);
-        - break;
-</kbd> Otras lineas que tambien añadi a un switch (_estado), pero esta vez en la funcion Update. Esto se encarga de determinar que botones tiene la pantalla correspondiente (en este caso IngresarNombre, la cual solo tiene para ingresar nombre osea Tecla).
+         - case EstadoJuego.IngresarNombre:
+         - ActualizarIngresarNombre(Tecla);
+         - break;
+         - case EstadoJuego.IngresarNombre2:
+         - ActualizarIngresarNombre2(Tecla);
+         - break;
+           </kbd>
+Otras lineas que tambien añadi a un switch (_estado), pero esta vez en la funcion Update. Esto se encarga de determinar que botones tiene la pantalla correspondiente (en este caso IngresarNombre, la cual solo tiene para ingresar nombre osea Tecla).
 
 <img width="2574" height="348" alt="image" src="https://github.com/user-attachments/assets/cdbadde4-8b99-4181-b2ef-9888ad2bbd77" /> Lo añadi en la funcion IniciarPartida, sirve para que en el modo Multijugador muestre los nombres ingresados
 y no "Jugador 1","Jugador 2".
